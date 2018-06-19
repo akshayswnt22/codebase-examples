@@ -8,6 +8,7 @@
 <script>
 window.alert(5 + 6);
 document.write(8 + 9);
+console.log( 10 + 15);
 </script>
 
 </body>
